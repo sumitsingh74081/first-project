@@ -10,7 +10,11 @@ export default function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <h1>first push</h1>
+<<<<<<< HEAD
         <h2>second push</h2>
+=======
+        <p>this is my seecond change</p>
+>>>>>>> 6dc9b796c5a6b6fdf41a339047eaf8551d5ff0fe
         <a
           className="App-link"
           href="https://reactjs.org"
